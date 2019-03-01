@@ -21,13 +21,7 @@ class ReviewScreen extends Component {
     render() {
         return (
             <View>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
-                <Text>ReviewScreen</Text>
+                <Text>ReviewScreen Placeholder</Text>
             </View>
         )
     }

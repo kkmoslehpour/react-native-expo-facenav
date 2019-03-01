@@ -5,13 +5,7 @@ class DeckScreen extends Component {
     render() {
         return (
             <View>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
-                <Text>DeckScreen</Text>
+                <Text>DeckScreen Placeholder</Text>
             </View>
         )
     }

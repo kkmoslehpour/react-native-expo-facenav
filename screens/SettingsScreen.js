@@ -5,13 +5,7 @@ class SettingsScreen extends Component {
     render() {
         return (
             <View>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
-                <Text>SettingsScreen</Text>
+                <Text>SettingsScreen Placeholder</Text>
             </View>
         )
     }
